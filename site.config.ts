@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'daily record',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'https://www.notion.so/daily-record-93f3b88b76314250970c7a416fb606c4',
   author: 'canoejun',
 
   // open graph metadata (optional)
